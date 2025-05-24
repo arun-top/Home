@@ -33,7 +33,7 @@ My research interests lie at the intersection of **algebraic topology** and **al
 
 ## Contact
 
-**Email:** [your-email@example.com](mailto:your-email@example.com)  
+**Email:** [arunkumar(AT)iisermohali.ac.in]  
 **Affiliation:** IISER Mohali
 
 ---
