@@ -6,13 +6,13 @@ title: K. Arun Kumar
 # K. Arun Kumar
 
 **Postdoctoral Fellow**  
-IISER Mohali
+IISER Pune
 
 ---
 
 ## About Me
 
-Welcome! I am a Postdoctoral Fellow at IISER Mohali.  
+Welcome! I am a Postdoctoral Fellow at IISER Pune.  
 My research interests lie at the intersection of **algebraic topology** and **algebraic geometry**. I use the framework of **motivic homotopy theory** created by Morel and Voevodsky to study the various invariants that come up in the study of solutions to polynomial equations, with a special focus on **algebraic K-theory**.
 
 ---
@@ -33,7 +33,7 @@ My research interests lie at the intersection of **algebraic topology** and **al
 
 ## Contact
 
-**Email:** [arunkumar(AT)iisermohali.ac.in]  
-**Affiliation:** IISER Mohali
+**Email:** [arunkumar(AT)iiserpune.ac.in]  
+**Affiliation:** IISER Pune
 
 ---
